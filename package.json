@@ -1,7 +1,7 @@
 {
   "name": "webappexpress",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "App.js",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
